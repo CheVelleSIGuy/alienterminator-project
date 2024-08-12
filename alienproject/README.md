@@ -6,7 +6,7 @@ Mechanics:
 
 Controls: The player moves the hero horizontally at the bottom of the screen and shoots at the aliens descending from the top.
 
-Special Shots: For every 15 aliens eliminated, the player gains 3 bursts of special shots, which cause more damage.
+Special Shots: For every 15 aliens eliminated, the player gains 3 bursts of special shots, pressing B.
 
 Meteors: Indestructible meteors fall periodically, adding an extra challenge to the gameplay.
 
